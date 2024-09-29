@@ -5,6 +5,7 @@ This project, coded in C, allows the user to play chess in three different ways:
 **Version:** 1.0.0  
 **Release Date:** 4/28/24  
 **Authors:** Derek Tang, Anna Ahn, Ishika Narain, Filiberto Alvarez, Bilal Malik, Christian Zeidan
+<br />
 © 1987 - 2024 B-Chess. All Rights Reserved
 
 ---
